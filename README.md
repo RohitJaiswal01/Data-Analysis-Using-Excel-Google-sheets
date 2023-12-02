@@ -20,3 +20,7 @@ Top factors influencing NPS and reasons for calls.
 
 Top reasons of contact analysis week by week analysis (Country
 wise).
+
+Check it out.
+[Exposure Activity 5 (3233205).pptx](https://github.com/RohitJaiswal01/Data-Analysis-Using-Excel-Google-sheets/files/13536210/Exposure.Activity.5.3233205.pptx)
+
